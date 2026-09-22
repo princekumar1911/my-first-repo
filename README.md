@@ -1,3 +1,3 @@
 # my-first-repo
-This is my first repository created in github
+This is my first repository created in github<br />
 Author: Prince Kumar
